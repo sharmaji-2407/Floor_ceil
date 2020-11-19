@@ -1,1 +1,0 @@
-x = float(input("Enter any float value"))
